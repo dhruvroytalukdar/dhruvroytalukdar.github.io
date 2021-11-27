@@ -13,7 +13,7 @@ body {
   margin: 5rem auto;
   padding: 2rem;
   width: 60vw;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
@@ -127,6 +127,8 @@ body {
 .icon-style i{
   margin-top:0.25rem;
   padding-right:0.2rem;
+  width:18px;
+  height:18px;
 }
 
 .row {
